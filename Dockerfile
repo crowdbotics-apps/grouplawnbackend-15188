@@ -1,6 +1,6 @@
-FROM node:10
+FROM node:8
 
-ENV NODE_VERSION 13.7.0
+ENV NODE_VERSION 8.9.0
 RUN apt update
 
 # Create app directory
