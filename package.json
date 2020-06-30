@@ -30,7 +30,7 @@
     "eslint-plugin-import": "^2.11.0",
     "expo-server-sdk": "^2.3.3",
     "express": "4.16.3",
-    "express-jwt": "5.3.1",
+    "express-jwt": "6.0.0",
     "express-validation": "1.0.2",
     "express-winston": "^2.5.1",
     "formidable": "^1.2.1",
