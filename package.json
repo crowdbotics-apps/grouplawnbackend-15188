@@ -44,7 +44,7 @@
     "http-status": "^1.1.0",
     "joi": "13.2.0",
     "jsonwebtoken": "7.4.3",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "method-override": "^2.3.10",
     "moment": "^2.22.1",
     "mongoose": "^5.0.17",
