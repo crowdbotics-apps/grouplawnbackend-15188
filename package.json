@@ -36,7 +36,7 @@
     "formidable": "^1.2.1",
     "fs-extra": "^6.0.0",
     "gps-distance": "0.0.4",
-    "gulp": "3.9.1",
+    "gulp": "4.0.2",
     "gulp-env": "^0.4.0",
     "gulp-load-plugins": "^1.5.0",
     "helmet": "3.12.0",
