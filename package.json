@@ -57,7 +57,7 @@
     "print-message": "^2.1.0",
     "prompt": "^1.0.0",
     "request": "^2.85.0",
-    "socket.io": "^2.1.0",
+    "socket.io": "^2.5.0",
     "socketio-jwt": "^4.5.0",
     "stripe": "^5.8.0",
     "twilio": "^3.16.0",
